@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 adding text
 (20)
+=======
+adding text
+>>>>>>> 7209ac8 (add text to text-b-2)
